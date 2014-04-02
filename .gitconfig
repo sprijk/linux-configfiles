@@ -28,7 +28,7 @@
   lg  = log
   m   = merge
   p   = pull
-  pa  = pull -a
+  pa  = pull --all
   ps  = push
   rs  = reset
   rb  = rebase
